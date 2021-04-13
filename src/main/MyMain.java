@@ -15,9 +15,7 @@ public class MyMain {
         mt.inOrder(mt.getRoot());
         System.out.println();
         System.out.println(mt.search(15));
-//        System.out.println();
         System.out.println(mt.height(mt.getRoot()));
     }
 }
-    }
-}
+    
